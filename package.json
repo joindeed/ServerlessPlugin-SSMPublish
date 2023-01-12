@@ -1,5 +1,5 @@
 {
-  "name": "serverless-ssm-publish",
+  "name": "@joindeed/serverless-ssm-publish",
   "version": "1.5.0",
   "description": "Serverless Framework plugin to publish data to AWS SSM Parameter Store",
   "author": "MySense",
@@ -18,8 +18,7 @@
     "url": "https://github.com/mysense-ai/ServerlessPlugin-SSMPublish"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org",
-    "access": "public"
+    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": [
     "serverless",
